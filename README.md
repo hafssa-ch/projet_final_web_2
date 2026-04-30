@@ -132,22 +132,23 @@ Lancer l’application
 
 ## 🔑 Compte de démonstration
 
-Champ	Valeur
-Email	demo@example.com
+Email	: demo@example.com
 
-Mot de passe	password123
+Mot de passe	: password123
 
 ## 🗄️ Base de données
 
 4 tables principales :
 
-users
-expense_categories
-expenses
-monthly_budgets
+- users
+- expense_categories
+- expenses
+- monthly_budgets
 
 ✔ Base SQLite
+
 ✔ Création automatique
+
 ✔ Requêtes sécurisées
 
 ## 🎨 Interface utilisateur
@@ -163,13 +164,6 @@ Graphiques
 
 ---
 
-## ⚠️ Points techniques
-Format date : YYYY-MM-DD
-JWT stocké :
-Android → SharedPreferences
-Web → localStorage
-Route importante :
-/budgets/list doit être avant /budgets/:month_year
 ## 📸   Resultat
 
 ### site web
@@ -185,8 +179,9 @@ https://github.com/user-attachments/assets/dc66297a-adcf-4b20-aa1d-132f48674162
 -----
 ## 👨‍🏫 Encadrement
 
-Projet réalisé à l’ENS Marrakech
-Encadré par: Mohamed Lachgar
+Projet réalisé à l’ENS Marrakech#
+
+Encadré par: Dr.Mohamed Lachgar
 
 
 Réalisé par:
