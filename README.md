@@ -172,10 +172,14 @@ Route importante :
 /budgets/list doit être avant /budgets/:month_year
 ## 📸   Resultat
 
-
+### site web
 
 https://github.com/user-attachments/assets/999554cf-4e34-4ef8-a4e7-574354a09b2a
 
+
+### application android
+
+https://github.com/user-attachments/assets/dc66297a-adcf-4b20-aa1d-132f48674162
 
 
 -----
